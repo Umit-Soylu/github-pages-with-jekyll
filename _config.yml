@@ -1,5 +1,8 @@
-title: This is Blog
+---
+title: "This is Blog"
 author: Umit-Soylu
+---
+
 email: umit_soylu@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
